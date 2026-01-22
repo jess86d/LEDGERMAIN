@@ -1,7 +1,8 @@
-
+snowflake
 streamlit
 xhtml2pdf
 jinja2
 faker
 numpy
 python-dateutil
+
